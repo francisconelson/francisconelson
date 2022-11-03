@@ -1,8 +1,8 @@
 ## Seja bem vindo (a) eu sou o Francisco Nelson, estudante de programação e apaixonado por tecnologia!
 <div align="center">
   <a href="https://github.com/francisconelson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francisconelson&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisconelson&layout=compact&langs_count=7&theme=github_dark"/>
+  <img width="60%"  src="https://github-readme-stats.vercel.app/api?username=francisconelson&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img width="60%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisconelson&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br>
